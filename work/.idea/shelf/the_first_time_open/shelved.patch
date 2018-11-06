@@ -1,0 +1,14 @@
+Index: src/com/company/text
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>git第一次提交
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/company/text	(date 1541489497000)
++++ src/com/company/text	(date 1541489746746)
+@@ -1,1 +1,1 @@
+-git第一次提交
+\ No newline at end of file
++git第一次提交fist
+\ No newline at end of file
